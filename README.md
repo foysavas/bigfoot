@@ -1,6 +1,8 @@
 # Bigfoot
 
-Bigfoot is a web framework that mimics the recurring architectural design decisions made by the largest online apps. It is built to scale by enforcing and rewarding the usage of many of the best practices that are typically adopted as an app grows.
+Bigfoot is a web framework that mimics the recurring architectural design decisions made by the largest online apps.
+
+It is built to scale by enforcing and rewarding the usage of many of the best practices that are typically adopted as an app grows.
 
 ## Major Features
 
