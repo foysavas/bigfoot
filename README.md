@@ -27,3 +27,6 @@ Each Bigfoot app depends on two code repositories, one for the API and one for t
 
     bigfoot create big_example
 
+## WHERE'S THE CODE???
+
+Bigfoot is being extracted from our production app, give it time.
