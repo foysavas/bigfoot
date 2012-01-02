@@ -29,4 +29,6 @@ Each Bigfoot app depends on two code repositories, one for the API and one for t
 
 ## WHERE'S THE CODE???
 
-Bigfoot is being extracted from our production app, give it time.
+Bigfoot is being extracted from our production app, so it may take some time.
+
+Pleae feel free to periodically harass [@foysavas](http://twitter.com/foysavas) on Twitter for best results.
